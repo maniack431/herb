@@ -1,0 +1,2 @@
+# herb
+G-Herbstluftwm config
