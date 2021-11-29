@@ -6,4 +6,4 @@
 
 **Place autostart and panels.sh file in ~/.config/herbstluftwm/ directory.**
 
-**Place .xinitrc .Xresources and .stalonetrayrc in your $HOME directory**
+**Place .xinitrc .Xresources and .stalonetrayrc in your $HOME directory.**
