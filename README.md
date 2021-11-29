@@ -1,6 +1,9 @@
 # G-Herbstluftwm config
 
-Place autostart and panels.sh file in ~/.config/herbstluftwm/ directory.
+**INSTALLATION**
 
-Place .xinitrc and .stalonetrayrc in your $HOME directory
+    sudo apt-get install herbstluftwm stalonetray urxvt 
 
+**Place autostart and panels.sh file in ~/.config/herbstluftwm/ directory.**
+
+**Place .xinitrc .Xresources and .stalonetrayrc in your $HOME directory**
